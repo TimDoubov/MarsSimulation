@@ -70,7 +70,7 @@ while survive == True:
         survive = False
 
 if day == 100:
- print(f"You survived Mars - {people} remain")
+    print(f"You survived Mars - {people} remain")
 else:
     print("You failed")
 
